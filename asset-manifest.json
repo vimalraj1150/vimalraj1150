@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3921dc23.chunk.css",
+    "main.js": "/static/js/main.bd7e935b.chunk.js",
+    "main.js.map": "/static/js/main.bd7e935b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df276d8b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df276d8b.js.map",
+    "static/js/2.c337ae3b.chunk.js": "/static/js/2.c337ae3b.chunk.js",
+    "static/js/2.c337ae3b.chunk.js.map": "/static/js/2.c337ae3b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3921dc23.chunk.css.map": "/static/css/main.3921dc23.chunk.css.map",
+    "static/js/2.c337ae3b.chunk.js.LICENSE.txt": "/static/js/2.c337ae3b.chunk.js.LICENSE.txt",
+    "static/media/contact.f535206c.jpg": "/static/media/contact.f535206c.jpg",
+    "static/media/foodorderapp.ea282bea.png": "/static/media/foodorderapp.ea282bea.png",
+    "static/media/pythonimage.91fe66c9.png": "/static/media/pythonimage.91fe66c9.png",
+    "static/media/quotes.4b588ba6.png": "/static/media/quotes.4b588ba6.png",
+    "static/media/taskdo.93ff4b4c.png": "/static/media/taskdo.93ff4b4c.png",
+    "static/media/vimalpic.be1e1395.jpg": "/static/media/vimalpic.be1e1395.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df276d8b.js",
+    "static/js/2.c337ae3b.chunk.js",
+    "static/css/main.3921dc23.chunk.css",
+    "static/js/main.bd7e935b.chunk.js"
+  ]
+}
